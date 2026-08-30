@@ -15,6 +15,7 @@ Power BI Desktop
 
 🐍 1. Python Data Preparation
 ✔ Data Loading & Initial Exploration
+
 Inspected the dataset using:
 
 “print(df.info()) # prints a concise technical summary of the DataFrame — basically a structural overview of our dataset.
