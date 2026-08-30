@@ -81,11 +81,11 @@ Certain age groups dominate revenue — supports demographic targeting.
 ![image alt](https://github.com/fedefig/Customer-Behaviour-Analysis/blob/main/SQL%20screens.png?raw=true)
 
 
-Power BI Dashboard: generated a report connecting to SQL database, transforming SQL outputs into interactive visuals
-⭐ KPIs
+⭐ Power BI Dashboard: generated a report connecting to SQL database, transforming SQL outputs into interactive visuals
 
 ![image alt](https://github.com/fedefig/Customer-Behaviour-Analysis/blob/main/BI%20screen.png?raw=true)
 
+⭐ KPIs
 1. Number of Customers — 3,9K
 This KPI shows the total number of unique customers in the dataset.
 It provides an immediate sense of dataset scale and helps contextualize all other metrics.
