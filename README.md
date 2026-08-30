@@ -13,8 +13,7 @@ Python (Pandas, PyODBC, SQLAlchemy)
 SQL Server (SSMS)
 Power BI Desktop
 
-🐍 1. Python Data Preparation
-✔ Data Loading & Initial Exploration
+🐍 1. Python Data Preparation ✔ Data Loading & Initial Exploration
 
 Inspected the dataset using:
 
