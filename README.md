@@ -30,6 +30,7 @@ Removed redundant column promo_code_used after confirming it duplicated discount
 Converted purchase frequency words to numeric days.
 
 Created age_group using quartiles (Young Adult, Adult, Middle-aged, Senior).
+
 ![image alt](https://github.com/fedefig/Customer-Behaviour-Analysis/blob/main/Python%20screens.png?raw=true)
 
 ✔ SQL Server Load
@@ -76,6 +77,8 @@ Category‑level best sellers help optimize inventory and merchandising
 9. Revenue by Age Group
 Insight:  
 Certain age groups dominate revenue — supports demographic targeting.
+
+![image alt](https://github.com/fedefig/Customer-Behaviour-Analysis/blob/main/SQL%20screens.png?raw=true)
 
 
 Power BI Dashboard: generated a report connecting to SQL database, transforming SQL outputs into interactive visuals
