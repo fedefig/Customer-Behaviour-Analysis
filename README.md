@@ -30,7 +30,7 @@ Removed redundant column promo_code_used after confirming it duplicated discount
 Converted purchase frequency words to numeric days.
 
 Created age_group using quartiles (Young Adult, Adult, Middle-aged, Senior).
-![image alt](https://github.com/fedefig/Customer-Behaviour-Analysis/blob/main/Python%20screens.png?raw=true))
+![image alt](https://github.com/fedefig/Customer-Behaviour-Analysis/blob/main/Python%20screens.png?raw=true)
 
 ✔ SQL Server Load
 Connected Python → SQL Server using and then loaded the cleaned DataFrame in SSMS
